@@ -13,7 +13,7 @@
     --popover: 0 0% 10%;
     --popover-foreground: 0 0% 100%;
 
-    --primary: 0 100% 50%;
+    --primary: 214 78% 47%;
     --primary-foreground: 0 0% 100%;
 
     --secondary: 0 0% 20%;
@@ -22,7 +22,7 @@
     --muted: 0 0% 15%;
     --muted-foreground: 0 0% 60%;
 
-    --accent: 0 100% 50%;
+    --accent: 214 78% 47%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84.2% 60.2%;
@@ -30,18 +30,18 @@
 
     --border: 0 0% 20%;
     --input: 0 0% 20%;
-    --ring: 0 100% 50%;
+    --ring: 214 78% 47%;
 
     --radius: 0.5rem;
 
     --sidebar-background: 0 0% 5%;
     --sidebar-foreground: 0 0% 95%;
-    --sidebar-primary: 0 100% 50%;
+    --sidebar-primary: 214 78% 47%;
     --sidebar-primary-foreground: 0 0% 100%;
     --sidebar-accent: 0 0% 15%;
     --sidebar-accent-foreground: 0 0% 95%;
     --sidebar-border: 0 0% 15%;
-    --sidebar-ring: 0 100% 50%;
+    --sidebar-ring: 214 78% 47%;
   }
 
   .dark {
@@ -54,7 +54,7 @@
     --popover: 0 0% 10%;
     --popover-foreground: 0 0% 100%;
 
-    --primary: 0 100% 50%;
+    --primary: 214 78% 47%;
     --primary-foreground: 0 0% 100%;
 
     --secondary: 0 0% 20%;
@@ -63,7 +63,7 @@
     --muted: 0 0% 15%;
     --muted-foreground: 0 0% 60%;
 
-    --accent: 0 100% 50%;
+    --accent: 214 78% 47%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84.2% 60.2%;
@@ -71,15 +71,15 @@
 
     --border: 0 0% 20%;
     --input: 0 0% 20%;
-    --ring: 0 100% 50%;
+    --ring: 214 78% 47%;
     --sidebar-background: 0 0% 5%;
     --sidebar-foreground: 0 0% 95%;
-    --sidebar-primary: 0 100% 50%;
+    --sidebar-primary: 214 78% 47%;
     --sidebar-primary-foreground: 0 0% 100%;
     --sidebar-accent: 0 0% 15%;
     --sidebar-accent-foreground: 0 0% 95%;
     --sidebar-border: 0 0% 15%;
-    --sidebar-ring: 0 100% 50%;
+    --sidebar-ring: 214 78% 47%;
   }
 }
 
@@ -103,12 +103,12 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #ff0000;
+  background: #1e65d2;
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #cc0000;
+  background: #1548a3;
 }
 
 /* Smooth scrolling */
